@@ -1,5 +1,7 @@
 #  Mean and variance of a discrete  distribution
 
+## NAME: JOANN ELIZABETH SAMUEL 
+## REG NO : 212224040139
 
 # Aim : 
 
